@@ -22,4 +22,4 @@
 ## Requirements
 - Python 3.x
 - `requests`
-- `Flask` (for bonus task)
+- `Flask` 
