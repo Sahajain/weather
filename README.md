@@ -11,7 +11,7 @@
 ## Task 2: SQL Queries
 - File: `sql_queries.sql`
 
-## Task 3 (Bonus): Flask Micro App
+## Task 3 : Flask Micro App
 - File: `app.py`
 - Usage:
   ```
